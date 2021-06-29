@@ -1,0 +1,62 @@
+﻿  chmat.cpp
+C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\CHMAT_GUI\chmat.cpp(391,24): warning C4390: ';': boş denetlenen deyim bulundu; amaçlanan bu muydu?
+C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\CHMAT_GUI\chmat.cpp(489,20): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\CHMAT_GUI\chmat.cpp(490,20): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\CHMAT_GUI\chmat.cpp(577,21): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\CHMAT_GUI\chmat.cpp(578,21): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\CHMAT_GUI\chmat.cpp(762,36): warning C4244: '-=': 'double' - 'unsigned char' dönüşümü; veri kaybı olabilir
+C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\CHMAT_GUI\chmat.cpp(764,35): warning C4244: '-=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\CHMAT_GUI\chmat.cpp(766,36): warning C4244: '-=': 'double' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\CHMAT_GUI\chmat.cpp(844,36): warning C4244: '*=': 'double' - 'unsigned char' dönüşümü; veri kaybı olabilir
+C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\CHMAT_GUI\chmat.cpp(846,35): warning C4244: '*=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\CHMAT_GUI\chmat.cpp(402,57): warning C4244: '=': 'T' - 'unsigned char' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=double
+          ]
+C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\CHMAT_GUI\chmat.cpp(204): message : derlenen şablon işlevi 'int CHMAT::set<double>(int,int,T)' örneği oluşturma başvurusuna bakın
+          with
+          [
+              T=double
+          ]
+C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\CHMAT_GUI\chmat.cpp(404,47): warning C4244: '=': 'T' - 'int' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=double
+          ]
+C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\CHMAT_GUI\chmat.cpp(406,56): warning C4244: '=': 'T' - 'unsigned int' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=double
+          ]
+C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\CHMAT_GUI\chmat.cpp(402,57): warning C4244: '=': 'T' - 'unsigned char' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\CHMAT_GUI\chmat.cpp(273): message : derlenen şablon işlevi 'int CHMAT::set<float>(int,int,T)' örneği oluşturma başvurusuna bakın
+          with
+          [
+              T=float
+          ]
+C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\CHMAT_GUI\chmat.cpp(404,47): warning C4244: '=': 'T' - 'int' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\CHMAT_GUI\chmat.cpp(406,56): warning C4244: '=': 'T' - 'unsigned int' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=float
+          ]
+  CHMAT_GUI.cpp
+C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\CHMAT_GUI\CHMAT_GUI.cpp(96,13): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\CHMAT_GUI\CHMAT_GUI.cpp(117,13): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\CHMAT_GUI\CHMAT_GUI.cpp(437,10): warning C4244: 'bağımsız değişken': 'double' - 'DWORD' dönüşümü; veri kaybı olabilir
+C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\CHMAT_GUI\CHMAT_GUI.cpp(452,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\CHMAT_GUI\CHMAT_GUI.cpp(538,12): warning C4244: 'return': 'WPARAM' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\CHMAT_GUI\CHMAT_GUI.cpp(493,8): warning C4101: 'MainMenu': yerel değişken başvurusu kaldırıldı
+C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\CHMAT_GUI\CHMAT_GUI.cpp(493,18): warning C4101: 'FileMenu': yerel değişken başvurusu kaldırıldı
+C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\CHMAT_GUI\CHMAT_GUI.cpp(611,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Kod Üretiliyor...
+  CHMAT_GUI.vcxproj -> C:\Users\Kullanıcı\Desktop\github\cem\BrickBreaker\x64\Debug\CHMAT_GUI.exe
